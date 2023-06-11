@@ -1,15 +1,6 @@
 # spark-streaming
-Nama : Dio Aulia Ari Kurnia Sandi
-Nim : 2041720086
-Kelas : 3C
-
-![1](https://github.com/begundal22/spark-streaming/assets/89907128/3d60526a-5e30-42ba-81d4-e5c4970e00b3)
-![2](https://github.com/begundal22/spark-streaming/assets/89907128/daa59b68-2509-463e-89bc-a3825c3e0350)
-![3](https://github.com/begundal22/spark-streaming/assets/89907128/d806e7c2-e3af-44d5-bbe6-47b454f626db)
-![4](https://github.com/begundal22/spark-streaming/assets/89907128/7bed66fd-4754-4996-af8a-6b6c621fc9cc)
-![5](https://github.com/begundal22/spark-streaming/assets/89907128/85aa1a59-16d0-44c6-8ee1-d9b09c8a62f4)
-![6](https://github.com/begundal22/spark-streaming/assets/89907128/046ddd4c-7ba1-420d-8af1-c35514ee350f)
-
+## Nama : M Dwihardik K Putra
+Nim : 2041720256
 
 sys.argv: Ini adalah sebuah list dalam bahasa Python yang berisi argumen baris perintah yang dikirimkan ke sebuah skrip.
 
